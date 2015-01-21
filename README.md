@@ -1,2 +1,2 @@
 # lab
-Try out some new idea
+Try out some new idea.
